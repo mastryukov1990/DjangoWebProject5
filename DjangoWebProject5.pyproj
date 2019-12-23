@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FirstApp\templates\FirstApp\index.html" />
+    <Content Include="HelloDjangoApp\templates\HelloDjangoApp\layout.html" />
     <Content Include="HelloDjangoApp\static\site.css" />
     <Content Include="HelloDjangoApp\templates\HelloDjangoApp\index.html" />
     <Content Include="HelloDjangoApp\templates\HelloDjangoApp\about.html" />
